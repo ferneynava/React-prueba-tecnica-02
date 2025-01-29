@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+
+.App {
+    display: flex;
+    place-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
